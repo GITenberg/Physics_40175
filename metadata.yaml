@@ -14,7 +14,7 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Thomas_D._Cope
   - agent_name: Turton, Charles M. (Charles Mark)
     alias: Turton, Charles Mark
-    birthdate: &id001 1861
+    birthdate: 1861
     deathdate: 1937
     gutenberg_agent_id: '40457'
     url: http://www.gutenberg.org/2009/agents/40457
@@ -25,11 +25,13 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40455
   - agent_name: Smith, Charles H. (Charles Henry)
     alias: Smith, Charles Henry
-    birthdate: *id001
+    birthdate: 1861
     deathdate: 1926
     gutenberg_agent_id: '40456'
     url: http://www.gutenberg.org/2009/agents/40456
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40175#Physics
 gutenberg_issued: '2012-07-09'
 gutenberg_type: Text
 identifiers:
