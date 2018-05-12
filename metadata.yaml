@@ -1,0 +1,53 @@
+_repo: Physics_40175
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Cope, Thomas D. (Thomas Darlington)
+    alias: Cope, Thomas Darlington
+    birthdate: 1880
+    deathdate: 1964
+    gutenberg_agent_id: '40458'
+    url: http://www.gutenberg.org/2009/agents/40458
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_D._Cope
+  - agent_name: Turton, Charles M. (Charles Mark)
+    alias: Turton, Charles Mark
+    birthdate: &id001 1861
+    deathdate: 1937
+    gutenberg_agent_id: '40457'
+    url: http://www.gutenberg.org/2009/agents/40457
+  - agent_name: Tower, Willis E. (Willis Eugene)
+    alias: Tower, Willis Eugene
+    birthdate: 1871
+    gutenberg_agent_id: '40455'
+    url: http://www.gutenberg.org/2009/agents/40455
+  - agent_name: Smith, Charles H. (Charles Henry)
+    alias: Smith, Charles Henry
+    birthdate: *id001
+    deathdate: 1926
+    gutenberg_agent_id: '40456'
+    url: http://www.gutenberg.org/2009/agents/40456
+description: ''
+gutenberg_issued: '2012-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40175'
+  lccn: '20004019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physics'
+- !lcc 'QC'
+tableOfContents: Introduction and measurement -- Molecular forces and motions -- Mechanics
+  of liquids -- Mechanics of gases -- Force and motion -- Work and energy -- Heat,
+  its production and transmission -- Heat and work -- Magnetism -- Static electricity
+  -- Electric currents produced by voltaic cells -- Magnetic effects of electric currents,
+  and electrical measurements -- Chemical and heat effects of electric currents --
+  Induced currents -- Sound -- Light -- Invisible radiations -- Wireless telephony
+  and alternating currents.
+title: Physics
+url: http://www.gutenberg.org/ebooks/40175
