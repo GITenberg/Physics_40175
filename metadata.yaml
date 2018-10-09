@@ -44,6 +44,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Physics'
 - !lcc 'QC'
+- GITenberg
 tableOfContents: Introduction and measurement -- Molecular forces and motions -- Mechanics
   of liquids -- Mechanics of gases -- Force and motion -- Work and energy -- Heat,
   its production and transmission -- Heat and work -- Magnetism -- Static electricity

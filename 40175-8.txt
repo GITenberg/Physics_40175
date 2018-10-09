@@ -290,7 +290,7 @@ CONTENTS
   (4) Molecular Forces in Liquids and Solids                          27
   (5) Molecular Forces in Solids                                      31
 
-  CHAPTER III. MECHANICS OR LIQUIDS.
+  CHAPTER III. MECHANICS OF LIQUIDS.
 
   (1) Liquid Pressure                                                 36
   (2) Transmission of Liquid Pressure                                 41
